@@ -1,0 +1,23 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "description": "Funcionalidades básicas",
+  "main": "exercicio.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Eliel Fernandes",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.11"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eliel300fernandes/Node.git"
+  },
+  "bugs": {
+    "url": "https://github.com/eliel300fernandes/Node/issues"
+  },
+  "homepage": "https://github.com/eliel300fernandes/Node#readme"
+}
